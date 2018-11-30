@@ -7,7 +7,7 @@ notebook: olives-model.ipynb
 
 ## Contents
 {:.no_toc}
-*
+*  
 {: toc}
 
 

@@ -7,7 +7,7 @@ notebook: olives-eda.ipynb
 
 ## Contents
 {:.no_toc}
-*
+*  
 {: toc}
 
 
