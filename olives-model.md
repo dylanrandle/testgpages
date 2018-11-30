@@ -9,6 +9,8 @@ notebook: olives-model.ipynb
 *
 {: toc}
 
+
+
 ```python
 #!pip install seaborn
 %matplotlib inline
