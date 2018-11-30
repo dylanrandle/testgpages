@@ -1,7 +1,13 @@
+---
+title: EDA
+nav_include: 1
+notebook: olives-model.ipynb
+---
 
-# EDA
-
-
+## Contents
+{:.no_toc}
+*
+{: toc}
 
 ```python
 %matplotlib inline
